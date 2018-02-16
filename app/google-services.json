@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "389647218152",
+    "firebase_url": "https://orboid-fffc7.firebaseio.com",
+    "project_id": "orboid-fffc7",
+    "storage_bucket": "orboid-fffc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389647218152:android:dab4190afc0373c2",
+        "android_client_info": {
+          "package_name": "com.orboid.orboid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389647218152-rlj6j0l1uq381k6p0e710ic4qtre60li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orboid.orboid",
+            "certificate_hash": "0a111a3ce07121cf160551c47d3bef42635ddb69"
+          }
+        },
+        {
+          "client_id": "389647218152-0ltuv5ek9ebom6u30fjfna02rcm48jbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZ3rW5aux0y7chdi3CijrEBXuNUeqH4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389647218152-0ltuv5ek9ebom6u30fjfna02rcm48jbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
